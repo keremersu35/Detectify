@@ -1,5 +1,9 @@
 # AI Image Detector: Detectify
 
+<div align="center">
+  <img src="/Detectify-AppStore/det1" width="180" height="348" />
+</div>
+
 Welcome to Detectify, your go-to mobile app for verifying the authenticity of images. In an era where AI-generated images are increasingly common, Detectify empowers you to distinguish between real and AI-created visuals with ease. Download now from the App Store!
 
 ## What is Detectify?
